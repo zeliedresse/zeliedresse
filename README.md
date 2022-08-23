@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeliedresse.
 - 👀 I’m interested in data science, machine learning and data analytics.
-- 🌱 I’m currently learning Python, Tableau and SQL.
+- 🌱 I’m currently working in Python and SQL and learning GCP and AWS.
 - 📫 How to reach me: zelie.dresse@outlook.com
 
 <!---
